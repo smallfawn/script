@@ -10,4 +10,6 @@ axios
 sharp
 
 jimp
+
+jsencrypt
 ```
